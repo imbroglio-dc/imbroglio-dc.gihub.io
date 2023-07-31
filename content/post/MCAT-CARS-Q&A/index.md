@@ -1,7 +1,7 @@
 ---
 title: "MCAT CARS Questions and Answers"
 subtitle: ''
-date: ''
+date: "2017-08-30T00:00:00Z"
 output:
   html_document:
     df_print: paged
@@ -9,9 +9,9 @@ output:
 tags: MCAT
 categories: []
 summary: ''
-lastmod: ''
-featured: no
-draft: no
+lastmod: "2018-01-01T00:00:00Z"
+featured: false
+draft: false
 image:
   caption: ''
   focal_point: ''

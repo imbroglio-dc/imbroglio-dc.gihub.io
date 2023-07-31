@@ -11,7 +11,7 @@ role: Biostatistics PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley
-  url: "https://imbroglio-dc.github.io"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: imbroglio (noun) - an extremely confused and complicated situation.
@@ -49,7 +49,7 @@ social:
   link: https://twitter.com/imbroglio_dc
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_5VF18QAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?authuser=1&user=_5VF18QAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/imbroglio-dc
