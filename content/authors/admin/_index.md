@@ -1,4 +1,7 @@
 ---
+# Display Photo
+img: 'pic1.jpg'
+
 # Display name
 title: David Chen
 
@@ -6,15 +9,14 @@ title: David Chen
 superuser: true
 
 # Role/position
-role: Biostatistics PhD Candidate
+role: UCSF Dept of Anesthesia Statistician
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
-  url: ""
+- name: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: imbroglio (noun) - an extremely confused and complicated situation.
+bio: imbroglio (noun) - an extremely confused, complicated, or embarrassing situation.
 
 interests:
 - Causal Inference
@@ -60,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "david.chen49@berkeley.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

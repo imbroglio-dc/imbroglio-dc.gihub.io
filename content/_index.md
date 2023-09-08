@@ -27,9 +27,18 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        **Specialties:** Causal Inference, Targeted Learning, R Programming, Randomized Trials
+        I am a statistician in the UCSF Department of Anesthesia. Prior to this, I obtained my PhD in biostatistics from UC Berkeley, where I worked on integrating causal inference and efficient non-/semi-parametric estimation for time-to-event clinical trials. I was lucky to enjoy diverse scientific collaborations with Novo Nordisk, the University of Copenhagen, and other members of the Joint Initiative for Causal Inference.
         
-        **Interests** Boxing & MMA, Regenerative Organic Winemaking, Ethics
+        My research interests lie primarily in unifying causal inference and estimation using machine learning under the umbrella of developing efficient and robust, assumption-lean inferential techniques tailored for the applied sciences. Broadly speaking, I am often motivated by methodological philosophy of targeted loss-based estimation approach to non- and semi-parametric inference (i.e. assumption-lean or model-agnostic perspective). While my applied science interests are diverse, I have recently been working on cardiovascular outcome trials. I am also deeply interested in developing open-source software to promote reproducibility, transparency, and data analysis “hygiene” in applied statistics and statistical data science.
+        
+        **Specialties:** 
+          - Causal Inference 
+          - Targeted Machine Learning
+          - Statistical Computing and Reproducible Data Science
+          
+        **Interests** 
+          MMA, Boxing, & Muay Thai; Wine & Regenerative Organic Viticulture, Stoic & Buddhist Ethics
+        
     design:
       columns: '1'
   - block: collection
